@@ -22,3 +22,7 @@ Mi objetivo es incorporarme a un entorno profesional como SOC Analyst o Junior S
 ## 🚀 Objetivo profesional
 
 Desarrollar una carrera en ciberseguridad orientada a la defensa, participando activamente en la detección, análisis y respuesta ante incidentes de seguridad, y contribuyendo a mejorar la postura de seguridad de las organizaciones.
+
+## Proyectos / Projects
+
+* **Análisis de tráfico de red (DNS, UDP e ICMP) / Network Traffic Analysis:** Investigación de un fallo de acceso a `www.yummyrecipesforme.com` mediante captura de paquetes con `tcpdump` e informe de incidente ([ver proyecto / view project](projects/network-traffic-analysis/README.md)).
