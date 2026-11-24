@@ -27,6 +27,8 @@ My goal is to continue growing in cybersecurity, gaining practical experience, a
 
 ## 📂 Projects & Labs
 
+* **Análisis de tráfico de red (DNS, UDP e ICMP) / Network Traffic Analysis:** Investigación de un fallo de acceso a `www.yummyrecipesforme.com` mediante captura de paquetes con `tcpdump` e informe de incidente ([ver proyecto / view project](projects/network-traffic-analysis/README.md)).
+
 ### 📘 Google Cybersecurity Certificate
 - Notes and practical exercises from the course  
 - Topics: security fundamentals, risk management, network security  
